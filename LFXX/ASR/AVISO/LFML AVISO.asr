@@ -1,0 +1,204 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFML AMSR\1700:freetext
+Free Text:LFML AMSR\2000:freetext
+Free Text:LFML AMSR\2200:freetext
+Free Text:LFML AMSR\3000:freetext
+Free Text:LFML AMSR\3500:freetext
+Free Text:LFML AMSR\4000:freetext
+Free Text:LFML AMSR\5000:freetext
+Free Text:LFML AMSR\6000:freetext
+Free Text:LFML Gates\10A/B/D:freetext
+Free Text:LFML Gates\10C:freetext
+Free Text:LFML Gates\1A:freetext
+Free Text:LFML Gates\20A:freetext
+Free Text:LFML Gates\2A:freetext
+Free Text:LFML Gates\2C:freetext
+Free Text:LFML Gates\3A/B:freetext
+Free Text:LFML Gates\3C:freetext
+Free Text:LFML Gates\3Z:freetext
+Free Text:LFML Gates\46C:freetext
+Free Text:LFML Gates\46E:freetext
+Free Text:LFML Gates\47A:freetext
+Free Text:LFML Gates\47C:freetext
+Free Text:LFML Gates\47E:freetext
+Free Text:LFML Gates\48E:freetext
+Free Text:LFML Gates\49C:freetext
+Free Text:LFML Gates\49E:freetext
+Free Text:LFML Gates\4B:freetext
+Free Text:LFML Gates\4Z:freetext
+Free Text:LFML Gates\52:freetext
+Free Text:LFML Gates\52A:freetext
+Free Text:LFML Gates\52B:freetext
+Free Text:LFML Gates\52C:freetext
+Free Text:LFML Gates\53:freetext
+Free Text:LFML Gates\53B:freetext
+Free Text:LFML Gates\53C:freetext
+Free Text:LFML Gates\56A:freetext
+Free Text:LFML Gates\56B:freetext
+Free Text:LFML Gates\56C:freetext
+Free Text:LFML Gates\57:freetext
+Free Text:LFML Gates\57A:freetext
+Free Text:LFML Gates\57B:freetext
+Free Text:LFML Gates\57C:freetext
+Free Text:LFML Gates\5A/B:freetext
+Free Text:LFML Gates\5C:freetext
+Free Text:LFML Gates\5Z:freetext
+Free Text:LFML Gates\60:freetext
+Free Text:LFML Gates\61N:freetext
+Free Text:LFML Gates\62N:freetext
+Free Text:LFML Gates\63A:freetext
+Free Text:LFML Gates\63B:freetext
+Free Text:LFML Gates\63C:freetext
+Free Text:LFML Gates\63D:freetext
+Free Text:LFML Gates\63E:freetext
+Free Text:LFML Gates\64:freetext
+Free Text:LFML Gates\65:freetext
+Free Text:LFML Gates\66E:freetext
+Free Text:LFML Gates\66P:freetext
+Free Text:LFML Gates\66W:freetext
+Free Text:LFML Gates\67N:freetext
+Free Text:LFML Gates\68N:freetext
+Free Text:LFML Gates\69N:freetext
+Free Text:LFML Gates\6A/A1/B/C:freetext
+Free Text:LFML Gates\6Z:freetext
+Free Text:LFML Gates\70 Grass Parking:freetext
+Free Text:LFML Gates\71:freetext
+Free Text:LFML Gates\72:freetext
+Free Text:LFML Gates\72B:freetext
+Free Text:LFML Gates\73:freetext
+Free Text:LFML Gates\73B:freetext
+Free Text:LFML Gates\74:freetext
+Free Text:LFML Gates\75:freetext
+Free Text:LFML Gates\76:freetext
+Free Text:LFML Gates\77:freetext
+Free Text:LFML Gates\78:freetext
+Free Text:LFML Gates\7A/B:freetext
+Free Text:LFML Gates\7C:freetext
+Free Text:LFML Gates\80:freetext
+Free Text:LFML Gates\81:freetext
+Free Text:LFML Gates\82:freetext
+Free Text:LFML Gates\83A:freetext
+Free Text:LFML Gates\83B:freetext
+Free Text:LFML Gates\83C:freetext
+Free Text:LFML Gates\83D:freetext
+Free Text:LFML Gates\83E:freetext
+Free Text:LFML Gates\8B/C:freetext
+Free Text:LFML Gates\9A/B:freetext
+Free Text:LFML Gates\9C:freetext
+Free Text:LFML Gates\BLOCK 25:freetext
+Free Text:LFML Gates\BLOCK 30-35:freetext
+Free Text:LFML Gates\BLOCK 40-45:freetext
+Free Text:LFML Gates\Cargo:freetext
+Free Text:LFML Gates\Eurocopter AIRBUS:freetext
+Free Text:LFML Gates\General Aviation:freetext
+Free Text:LFML Gates\SC Securite Civile:freetext
+Free Text:LFML Gates\SN Securite Civile:freetext
+Free Text:LFML Gates\Terminal 1:freetext
+Free Text:LFML Gates\Terminal 2:freetext
+Free Text:LFML Points VFR\CB:freetext
+Free Text:LFML Points VFR\E:freetext
+Free Text:LFML Points VFR\EA:freetext
+Free Text:LFML Points VFR\EB:freetext
+Free Text:LFML Points VFR\LP:freetext
+Free Text:LFML Points VFR\NA:freetext
+Free Text:LFML Points VFR\NB:freetext
+Free Text:LFML Points VFR\S:freetext
+Free Text:LFML Points VFR\SA:freetext
+Free Text:LFML Points VFR\SB:freetext
+Free Text:LFML Points VFR\SC:freetext
+Free Text:LFML Points VFR\SW:freetext
+Free Text:LFML Taxiways\13L:freetext
+Free Text:LFML Taxiways\13R:freetext
+Free Text:LFML Taxiways\31L:freetext
+Free Text:LFML Taxiways\31R:freetext
+Free Text:LFML Taxiways\B7:freetext
+Free Text:LFML Taxiways\C1:freetext
+Free Text:LFML Taxiways\C2:freetext
+Free Text:LFML Taxiways\C3:freetext
+Free Text:LFML Taxiways\C4:freetext
+Free Text:LFML Taxiways\C5:freetext
+Free Text:LFML Taxiways\C6:freetext
+Free Text:LFML Taxiways\C7:freetext
+Free Text:LFML Taxiways\C8:freetext
+Free Text:LFML Taxiways\D1:freetext
+Free Text:LFML Taxiways\D2:freetext
+Free Text:LFML Taxiways\D3:freetext
+Free Text:LFML Taxiways\D4:freetext
+Free Text:LFML Taxiways\D6:freetext
+Free Text:LFML Taxiways\D7:freetext
+Free Text:LFML Taxiways\D8:freetext
+Free Text:LFML Taxiways\D9:freetext
+Free Text:LFML Taxiways\E2:freetext
+Free Text:LFML Taxiways\E3:freetext
+Free Text:LFML Taxiways\E7:freetext
+Free Text:LFML Taxiways\E9:freetext
+Free Text:LFML Taxiways\F3:freetext
+Free Text:LFML Taxiways\F7:freetext
+Free Text:LFML Taxiways\G1:freetext
+Free Text:LFML Taxiways\G10:freetext
+Free Text:LFML Taxiways\G11:freetext
+Free Text:LFML Taxiways\G2:freetext
+Free Text:LFML Taxiways\G3:freetext
+Free Text:LFML Taxiways\G4:freetext
+Free Text:LFML Taxiways\G5:freetext
+Free Text:LFML Taxiways\G6:freetext
+Free Text:LFML Taxiways\G7:freetext
+Free Text:LFML Taxiways\G8:freetext
+Free Text:LFML Taxiways\G9:freetext
+Free Text:LFML Taxiways\L1:freetext
+Free Text:LFML Taxiways\L2:freetext
+Free Text:LFML Taxiways\L3:freetext
+Free Text:LFML Taxiways\L4:freetext
+Regions:LFML AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:43.419232:5.159854:43.456855:5.268784
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFML
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

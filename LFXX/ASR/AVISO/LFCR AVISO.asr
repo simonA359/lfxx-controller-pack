@@ -1,0 +1,68 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFCR Gates\1:freetext
+Free Text:LFCR Gates\2:freetext
+Free Text:LFCR Gates\3:freetext
+Free Text:LFCR Gates\4:freetext
+Free Text:LFCR Gates\5:freetext
+Free Text:LFCR Gates\7:freetext
+Free Text:LFCR Gates\8:freetext
+Free Text:LFCR Points VFR\E:freetext
+Free Text:LFCR Points VFR\EA:freetext
+Free Text:LFCR Points VFR\N:freetext
+Free Text:LFCR Points VFR\S:freetext
+Free Text:LFCR Points VFR\SA:freetext
+Free Text:LFCR Points VFR\W:freetext
+Geo:LFCR Groundlayout Rodez Marcillac:
+Regions:LFCR AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:44.396675:2.448892:44.420753:2.518607
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFCR
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,89 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFKC Gates\A:freetext
+Free Text:LFKC Gates\ACB:freetext
+Free Text:LFKC Gates\B:freetext
+Free Text:LFKC Gates\C:freetext
+Free Text:LFKC Gates\Met:freetext
+Free Text:LFKC Gates\P1:freetext
+Free Text:LFKC Gates\P2:freetext
+Free Text:LFKC Gates\P2A:freetext
+Free Text:LFKC Gates\P2B:freetext
+Free Text:LFKC Gates\P3:freetext
+Free Text:LFKC Gates\P4:freetext
+Free Text:LFKC Gates\P5:freetext
+Free Text:LFKC Gates\P6:freetext
+Free Text:LFKC Gates\P7:freetext
+Free Text:LFKC Gates\P8:freetext
+Free Text:LFKC Gates\Parkin Aviation Affaire:freetext
+Free Text:LFKC Gates\Parkin Aviation Generale:freetext
+Free Text:LFKC Gates\Parking Aviation Generale:freetext
+Free Text:LFKC Gates\Parking Commercial:freetext
+Free Text:LFKC Gates\Pelicandrome:freetext
+Free Text:LFKC Gates\RFFS:freetext
+Free Text:LFKC Gates\TWR:freetext
+Free Text:LFKC Gates\Terminal:freetext
+Free Text:LFKC Gates\Voie RFFS:freetext
+Free Text:LFKC Points VFR\E:freetext
+Free Text:LFKC Points VFR\EA:freetext
+Free Text:LFKC Points VFR\IR:freetext
+Free Text:LFKC Points VFR\N:freetext
+Free Text:LFKC Points VFR\S:freetext
+Free Text:LFKC Points VFR\W:freetext
+Free Text:LFKC Points VFR\WC:freetext
+Free Text:LFKC Taxiways\A:freetext
+Free Text:LFKC Taxiways\B:freetext
+Free Text:LFKC Taxiways\C:freetext
+Free Text:LFKC Taxiways\X:freetext
+Regions:LFKC AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:42.514634:8.748984:42.544733:8.836129
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFKC
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

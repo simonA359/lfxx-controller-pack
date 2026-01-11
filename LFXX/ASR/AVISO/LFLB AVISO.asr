@@ -1,0 +1,125 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFLB Gates\1:freetext
+Free Text:LFLB Gates\10:freetext
+Free Text:LFLB Gates\11:freetext
+Free Text:LFLB Gates\12:freetext
+Free Text:LFLB Gates\13:freetext
+Free Text:LFLB Gates\14:freetext
+Free Text:LFLB Gates\15:freetext
+Free Text:LFLB Gates\16:freetext
+Free Text:LFLB Gates\17:freetext
+Free Text:LFLB Gates\18:freetext
+Free Text:LFLB Gates\19:freetext
+Free Text:LFLB Gates\2:freetext
+Free Text:LFLB Gates\20:freetext
+Free Text:LFLB Gates\21:freetext
+Free Text:LFLB Gates\22:freetext
+Free Text:LFLB Gates\23:freetext
+Free Text:LFLB Gates\24:freetext
+Free Text:LFLB Gates\25:freetext
+Free Text:LFLB Gates\26:freetext
+Free Text:LFLB Gates\27:freetext
+Free Text:LFLB Gates\28:freetext
+Free Text:LFLB Gates\29:freetext
+Free Text:LFLB Gates\3:freetext
+Free Text:LFLB Gates\30:freetext
+Free Text:LFLB Gates\4:freetext
+Free Text:LFLB Gates\5:freetext
+Free Text:LFLB Gates\6:freetext
+Free Text:LFLB Gates\7:freetext
+Free Text:LFLB Gates\8:freetext
+Free Text:LFLB Gates\9:freetext
+Free Text:LFLB Gates\A1:freetext
+Free Text:LFLB Gates\A2:freetext
+Free Text:LFLB Gates\A3:freetext
+Free Text:LFLB Gates\A4:freetext
+Free Text:LFLB Gates\A5:freetext
+Free Text:LFLB Gates\A6:freetext
+Free Text:LFLB Gates\A7:freetext
+Free Text:LFLB Gates\A8:freetext
+Free Text:LFLB Gates\B1:freetext
+Free Text:LFLB Gates\B3:freetext
+Free Text:LFLB Gates\B5:freetext
+Free Text:LFLB Gates\B7:freetext
+Free Text:LFLB Gates\B9:freetext
+Free Text:LFLB Gates\Entree:freetext
+Free Text:LFLB Gates\Hangar:freetext
+Free Text:LFLB Gates\Hangar ACB:freetext
+Free Text:LFLB Gates\Parking Aviation Generale:freetext
+Free Text:LFLB Gates\Parking L:freetext
+Free Text:LFLB Gates\Parking P:freetext
+Free Text:LFLB Gates\Peas:freetext
+Free Text:LFLB Gates\Sortie:freetext
+Free Text:LFLB Gates\TWR:freetext
+Free Text:LFLB Gates\Terminal:freetext
+Free Text:LFLB Gates\Terminal Affaires:freetext
+Free Text:LFLB Points VFR\ALBY:freetext
+Free Text:LFLB Points VFR\E:freetext
+Free Text:LFLB Points VFR\EY:freetext
+Free Text:LFLB Points VFR\N:freetext
+Free Text:LFLB Points VFR\NE:freetext
+Free Text:LFLB Points VFR\NL:freetext
+Free Text:LFLB Points VFR\SE:freetext
+Free Text:LFLB Points VFR\SW:freetext
+Free Text:LFLB Points VFR\WA:freetext
+Free Text:LFLB Points VFR\WB:freetext
+Free Text:LFLB Points VFR\WC:freetext
+Free Text:LFLB Points VFR\WG:freetext
+Free Text:LFLB Taxiways\C:freetext
+Free Text:LFLB Taxiways\N:freetext
+Free Text:LFLB Taxiways\N1:freetext
+Free Text:LFLB Taxiways\S:freetext
+Free Text:LFLB Taxiways\X:freetext
+Regions:LFLB AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:45.622913:5.836414:45.653011:5.923558
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFLB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

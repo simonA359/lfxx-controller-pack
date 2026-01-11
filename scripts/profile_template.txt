@@ -1,0 +1,42 @@
+$SECTOR$
+$SETTINGS$
+Settings	alias	$ROOT_PATH$\Alias\alias.txt
+Settings	airlines	$ROOT_PATH$\ICAO\ICAO_Airlines.txt
+Settings	airports	$ROOT_PATH$\ICAO\ICAO_Airports.txt
+Settings	aircraft	$ROOT_PATH$\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	$ROOT_PATH$\NavData\icao.txt
+Settings	airways	$ROOT_PATH$\NavData\airway.txt
+$RECENTFILES$
+Sounds	Sound0	$ROOT_PATH$\Sounds\handoff_request.wav
+Sounds	Sound1	$ROOT_PATH$\Sounds\handoff_accept.wav
+Sounds	Sound2	$ROOT_PATH$\Sounds\conflict_alert.wav
+Sounds	Sound3	$ROOT_PATH$\Sounds\radio_message.wav
+Sounds	Sound4	$ROOT_PATH$\Sounds\private_message.wav
+Sounds	Sound5	$ROOT_PATH$\Sounds\atc_message.wav
+Sounds	Sound6	$ROOT_PATH$\Sounds\broadcast_message.wav
+Sounds	Sound7	$ROOT_PATH$\Sounds\landline_request.wav
+Sounds	Sound8	$ROOT_PATH$\Sounds\supervisor_message.wav
+Sounds	Sound9	$ROOT_PATH$\Sounds\connected.wav
+Sounds	Sound10	$ROOT_PATH$\Sounds\disconnected.wav
+Sounds	Sound11	$ROOT_PATH$\Sounds\ongoing_request.wav
+Sounds	Sound12	$ROOT_PATH$\Sounds\ongoing_accepted.wav
+Sounds	Sound13	$ROOT_PATH$\Sounds\ongoing_refused.wav
+Sounds	Sound14	$ROOT_PATH$\Sounds\ongoing_manual.wav
+Sounds	Sound15	$ROOT_PATH$\Sounds\new_atis.wav
+Sounds	Sound16	$ROOT_PATH$\Sounds\handoff_refused.wav
+Sounds	Sound17	$ROOT_PATH$\Sounds\pointout.wav
+Sounds	Sound18	$ROOT_PATH$\Sounds\startup.wav
+$PLUGINS$
+LastSession	atis_freq4	118000
+LastSession	callsign	(initials)_OBS
+LastSession	certificate
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	password
+LastSession	proxyserver	localhost
+LastSession	range	300
+LastSession	rating	0
+LastSession	realname
+LastSession	server	AUTOMATIC
+LastSession	simdatapublish	0
+LastSession	tovatsim	1

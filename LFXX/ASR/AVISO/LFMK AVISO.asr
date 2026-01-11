@@ -1,0 +1,92 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFMK Gates\1:freetext
+Free Text:LFMK Gates\2:freetext
+Free Text:LFMK Gates\3:freetext
+Free Text:LFMK Gates\4:freetext
+Free Text:LFMK Gates\A:freetext
+Free Text:LFMK Gates\B:freetext
+Free Text:LFMK Gates\Bretelle AVGAS:freetext
+Free Text:LFMK Gates\Hangars:freetext
+Free Text:LFMK Gates\P Aviation Generale:freetext
+Free Text:LFMK Gates\P Commercial:freetext
+Free Text:LFMK Gates\P ENAC:freetext
+Free Text:LFMK Gates\P Helicoptere:freetext
+Free Text:LFMK Gates\Pelicandrome:freetext
+Free Text:LFMK Gates\TWR:freetext
+Free Text:LFMK Gates\Terminal:freetext
+Free Text:LFMK Points VFR\EN:freetext
+Free Text:LFMK Points VFR\ES:freetext
+Free Text:LFMK Points VFR\NC:freetext
+Free Text:LFMK Points VFR\S:freetext
+Free Text:LFMK Points VFR\SF:freetext
+Free Text:LFMK Points VFR\W:freetext
+Free Text:LFMK Points VFR\WA:freetext
+Free Text:LFMK Points VFR\WM:freetext
+Free Text:LFMK Points VFR\WP:freetext
+Free Text:LFMK Taxiways\A:freetext
+Free Text:LFMK Taxiways\B:freetext
+Free Text:LFMK Taxiways\B1:freetext
+Free Text:LFMK Taxiways\C:freetext
+Free Text:LFMK Taxiways\D:freetext
+Free Text:LFMK Taxiways\E:freetext
+Free Text:LFMK Taxiways\F:freetext
+Free Text:LFMK Taxiways\T1:freetext
+Free Text:LFMK Taxiways\T2:freetext
+Free Text:LFMK Taxiways\T3:freetext
+Free Text:LFMK Taxiways\T4:freetext
+Free Text:LFMK Taxiways\T5:freetext
+Free Text:LFMK Taxiways\T6:freetext
+Geo:LFMK Groundlayout Carcassonne:
+Regions:LFMK AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:43.208512:2.282052:43.223922:2.326670
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFMK
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

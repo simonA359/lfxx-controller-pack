@@ -1,0 +1,23 @@
+{
+  "Settingsfile": "General.txt",
+  "SettingsfileADCS": "Lists.txt",
+  "SettingsfileARR":  "Lists.txt",
+  "SettingsfileCONFLICT": "Lists.txt",
+  "SettingsfileDEP":  "Lists.txt",
+  "SettingsfileFP": "Lists.txt",
+  "SettingsfileORIGPLANE":  "Lists.txt",
+  "SettingsfilePILOTING": "Lists.txt",
+  "SettingsfilePLUGINS":  "Plugins.txt",
+  "SettingsfilePROFILE": "LoginProfiles.txt",
+  "SettingsfileSCREEN":  "Screen.txt",
+  "SettingsfileSEL": "Lists.txt",
+  "SettingsfileSIL":  "Lists.txt",
+  "SettingsfileSTUP": "Lists.txt",
+  "SettingsfileSYMBOLOGY":  "Symbology.txt",
+  "SettingsfileTAGS": "Tags.txt",
+  "SettingsfileTAKEOFF":  "Lists.txt",
+  "SettingsfileTAXIIN": "Lists.txt",
+  "SettingsfileTAXIOUT":  "Lists.txt",
+  "SettingsfileVCCS": "VCCS.txt",
+  "SettingsfileVOICE":  "VoiceChannels.txt"
+}

@@ -1,0 +1,199 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFMD Gates\1.1:freetext
+Free Text:LFMD Gates\1.2:freetext
+Free Text:LFMD Gates\1.3:freetext
+Free Text:LFMD Gates\1.A:freetext
+Free Text:LFMD Gates\1.B:freetext
+Free Text:LFMD Gates\2.1:freetext
+Free Text:LFMD Gates\2.2:freetext
+Free Text:LFMD Gates\2.3:freetext
+Free Text:LFMD Gates\2.A:freetext
+Free Text:LFMD Gates\2.B:freetext
+Free Text:LFMD Gates\20:freetext
+Free Text:LFMD Gates\21:freetext
+Free Text:LFMD Gates\3.1:freetext
+Free Text:LFMD Gates\3.2:freetext
+Free Text:LFMD Gates\3.3:freetext
+Free Text:LFMD Gates\3.A:freetext
+Free Text:LFMD Gates\3.B:freetext
+Free Text:LFMD Gates\30:freetext
+Free Text:LFMD Gates\31:freetext
+Free Text:LFMD Gates\32:freetext
+Free Text:LFMD Gates\33:freetext
+Free Text:LFMD Gates\34:freetext
+Free Text:LFMD Gates\36:freetext
+Free Text:LFMD Gates\37:freetext
+Free Text:LFMD Gates\38:freetext
+Free Text:LFMD Gates\4.1:freetext
+Free Text:LFMD Gates\4.2:freetext
+Free Text:LFMD Gates\4.3:freetext
+Free Text:LFMD Gates\4.A:freetext
+Free Text:LFMD Gates\4.B:freetext
+Free Text:LFMD Gates\40:freetext
+Free Text:LFMD Gates\41:freetext
+Free Text:LFMD Gates\42:freetext
+Free Text:LFMD Gates\43:freetext
+Free Text:LFMD Gates\44:freetext
+Free Text:LFMD Gates\45:freetext
+Free Text:LFMD Gates\46:freetext
+Free Text:LFMD Gates\47:freetext
+Free Text:LFMD Gates\48:freetext
+Free Text:LFMD Gates\5.1:freetext
+Free Text:LFMD Gates\5.2:freetext
+Free Text:LFMD Gates\5.3:freetext
+Free Text:LFMD Gates\5.A:freetext
+Free Text:LFMD Gates\5.B:freetext
+Free Text:LFMD Gates\50:freetext
+Free Text:LFMD Gates\51:freetext
+Free Text:LFMD Gates\52:freetext
+Free Text:LFMD Gates\53:freetext
+Free Text:LFMD Gates\54:freetext
+Free Text:LFMD Gates\55:freetext
+Free Text:LFMD Gates\56:freetext
+Free Text:LFMD Gates\57:freetext
+Free Text:LFMD Gates\58:freetext
+Free Text:LFMD Gates\6.1:freetext
+Free Text:LFMD Gates\6.2:freetext
+Free Text:LFMD Gates\6.3:freetext
+Free Text:LFMD Gates\60:freetext
+Free Text:LFMD Gates\61:freetext
+Free Text:LFMD Gates\62:freetext
+Free Text:LFMD Gates\63:freetext
+Free Text:LFMD Gates\64:freetext
+Free Text:LFMD Gates\65:freetext
+Free Text:LFMD Gates\66:freetext
+Free Text:LFMD Gates\7.1:freetext
+Free Text:LFMD Gates\7.2:freetext
+Free Text:LFMD Gates\70:freetext
+Free Text:LFMD Gates\75:freetext
+Free Text:LFMD Gates\80:freetext
+Free Text:LFMD Gates\Aire de lavage:freetext
+Free Text:LFMD Gates\Avgas:freetext
+Free Text:LFMD Gates\H1:freetext
+Free Text:LFMD Gates\H1 Bis:freetext
+Free Text:LFMD Gates\H10:freetext
+Free Text:LFMD Gates\H11:freetext
+Free Text:LFMD Gates\H12:freetext
+Free Text:LFMD Gates\H14:freetext
+Free Text:LFMD Gates\H16:freetext
+Free Text:LFMD Gates\H2:freetext
+Free Text:LFMD Gates\H3:freetext
+Free Text:LFMD Gates\H3 Bis:freetext
+Free Text:LFMD Gates\H4:freetext
+Free Text:LFMD Gates\H5:freetext
+Free Text:LFMD Gates\H6:freetext
+Free Text:LFMD Gates\H7:freetext
+Free Text:LFMD Gates\H8:freetext
+Free Text:LFMD Gates\H9:freetext
+Free Text:LFMD Gates\Hangars:freetext
+Free Text:LFMD Gates\Parking Alpha:freetext
+Free Text:LFMD Gates\Parking Echo:freetext
+Free Text:LFMD Gates\Parking Golf:freetext
+Free Text:LFMD Gates\Parking Hel Sierra:freetext
+Free Text:LFMD Gates\Parking Lima:freetext
+Free Text:LFMD Gates\Parking Mike:freetext
+Free Text:LFMD Gates\Parking Novembre Echo:freetext
+Free Text:LFMD Gates\Parking Sierra:freetext
+Free Text:LFMD Gates\Parking Sierra Echo:freetext
+Free Text:LFMD Gates\Parking Tango:freetext
+Free Text:LFMD Gates\Pelicandrome:freetext
+Free Text:LFMD Gates\SAF:freetext
+Free Text:LFMD Gates\Securite Civile:freetext
+Free Text:LFMD Gates\TWR:freetext
+Free Text:LFMD Gates\Terminal:freetext
+Free Text:LFMD Gates\ys:freetext
+Free Text:LFMD Points VFR\DR:freetext
+Free Text:LFMD Points VFR\EW:freetext
+Free Text:LFMD Points VFR\HE:freetext
+Free Text:LFMD Points VFR\HV:freetext
+Free Text:LFMD Points VFR\HW:freetext
+Free Text:LFMD Points VFR\LC:freetext
+Free Text:LFMD Points VFR\N:freetext
+Free Text:LFMD Points VFR\NA:freetext
+Free Text:LFMD Points VFR\PF:freetext
+Free Text:LFMD Points VFR\SA:freetext
+Free Text:LFMD Points VFR\SB:freetext
+Free Text:LFMD Points VFR\SV:freetext
+Free Text:LFMD Points VFR\TA:freetext
+Free Text:LFMD Points VFR\TD:freetext
+Free Text:LFMD Points VFR\WA:freetext
+Free Text:LFMD Points VFR\WD:freetext
+Free Text:LFMD Points VFR\WL:freetext
+Free Text:LFMD Taxiways\A1:freetext
+Free Text:LFMD Taxiways\A2:freetext
+Free Text:LFMD Taxiways\A3:freetext
+Free Text:LFMD Taxiways\A5:freetext
+Free Text:LFMD Taxiways\A6:freetext
+Free Text:LFMD Taxiways\A7:freetext
+Free Text:LFMD Taxiways\B:freetext
+Free Text:LFMD Taxiways\B1:freetext
+Free Text:LFMD Taxiways\B2:freetext
+Free Text:LFMD Taxiways\B5:freetext
+Free Text:LFMD Taxiways\B6:freetext
+Free Text:LFMD Taxiways\C1:freetext
+Free Text:LFMD Taxiways\C2:freetext
+Free Text:LFMD Taxiways\C3:freetext
+Free Text:LFMD Taxiways\C5:freetext
+Free Text:LFMD Taxiways\EB:freetext
+Free Text:LFMD Taxiways\V:freetext
+Free Text:LFMD Taxiways\VC:freetext
+Free Text:LFMD Taxiways\W:freetext
+Free Text:LFMD Taxiways\WB:freetext
+Free Text:LFMD Taxiways\WE:freetext
+Free Text:LFMD Taxiways\Y:freetext
+Free Text:LFMD Taxiways\YA:freetext
+Free Text:LFMD Taxiways\YB:freetext
+Free Text:LFMD Taxiways\YC:freetext
+Regions:LFMD AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:43.535493:6.919179:43.559572:6.988894
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFMD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

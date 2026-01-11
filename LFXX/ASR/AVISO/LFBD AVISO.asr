@@ -1,0 +1,141 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFBD Gates\A10:freetext
+Free Text:LFBD Gates\A12:freetext
+Free Text:LFBD Gates\A13:freetext
+Free Text:LFBD Gates\A6:freetext
+Free Text:LFBD Gates\A8:freetext
+Free Text:LFBD Gates\B1R:freetext
+Free Text:LFBD Gates\B2R:freetext
+Free Text:LFBD Gates\B3R:freetext
+Free Text:LFBD Gates\B4R:freetext
+Free Text:LFBD Gates\B5R:freetext
+Free Text:LFBD Gates\B6:freetext
+Free Text:LFBD Gates\B7R:freetext
+Free Text:LFBD Gates\B8R:freetext
+Free Text:LFBD Gates\B9R:freetext
+Free Text:LFBD Gates\C2:freetext
+Free Text:LFBD Gates\C4:freetext
+Free Text:LFBD Gates\C6:freetext
+Free Text:LFBD Gates\CARGO:freetext
+Free Text:LFBD Gates\D1:freetext
+Free Text:LFBD Gates\D2:freetext
+Free Text:LFBD Gates\D3:freetext
+Free Text:LFBD Gates\D4:freetext
+Free Text:LFBD Gates\D6:freetext
+Free Text:LFBD Gates\D7:freetext
+Free Text:LFBD Gates\F1:freetext
+Free Text:LFBD Gates\F2:freetext
+Free Text:LFBD Gates\F3:freetext
+Free Text:LFBD Gates\F4:freetext
+Free Text:LFBD Gates\Low-cost:freetext
+Free Text:LFBD Gates\Term A:freetext
+Free Text:LFBD Gates\Term B:freetext
+Free Text:LFBD Points VFR\EA:freetext
+Free Text:LFBD Points VFR\N:freetext
+Free Text:LFBD Points VFR\NA:freetext
+Free Text:LFBD Points VFR\NE:freetext
+Free Text:LFBD Points VFR\NW:freetext
+Free Text:LFBD Points VFR\OA:freetext
+Free Text:LFBD Points VFR\S:freetext
+Free Text:LFBD Points VFR\SA:freetext
+Free Text:LFBD Points VFR\SE:freetext
+Free Text:LFBD Points VFR\SW:freetext
+Free Text:LFBD Taxiways\A:freetext
+Free Text:LFBD Taxiways\A:freetext
+Free Text:LFBD Taxiways\B:freetext
+Free Text:LFBD Taxiways\B:freetext
+Free Text:LFBD Taxiways\B:freetext
+Free Text:LFBD Taxiways\C:freetext
+Free Text:LFBD Taxiways\D:freetext
+Free Text:LFBD Taxiways\F:freetext
+Free Text:LFBD Taxiways\G:freetext
+Free Text:LFBD Taxiways\M:freetext
+Free Text:LFBD Taxiways\M:freetext
+Free Text:LFBD Taxiways\M1:freetext
+Free Text:LFBD Taxiways\M1:freetext
+Free Text:LFBD Taxiways\M2:freetext
+Free Text:LFBD Taxiways\M2:freetext
+Free Text:LFBD Taxiways\P1:freetext
+Free Text:LFBD Taxiways\P2:freetext
+Free Text:LFBD Taxiways\P3:freetext
+Free Text:LFBD Taxiways\P4:freetext
+Free Text:LFBD Taxiways\P4:freetext
+Free Text:LFBD Taxiways\P5:freetext
+Free Text:LFBD Taxiways\P5:freetext
+Free Text:LFBD Taxiways\P6:freetext
+Free Text:LFBD Taxiways\S1:freetext
+Free Text:LFBD Taxiways\S1:freetext
+Free Text:LFBD Taxiways\S1:freetext
+Free Text:LFBD Taxiways\S2:freetext
+Free Text:LFBD Taxiways\S3:freetext
+Free Text:LFBD Taxiways\S3:freetext
+Free Text:LFBD Taxiways\S4:freetext
+Free Text:LFBD Taxiways\S4:freetext
+Free Text:LFBD Taxiways\S4:freetext
+Free Text:LFBD Taxiways\U:freetext
+Free Text:LFBD Taxiways\U:freetext
+Free Text:LFBD Taxiways\U1:freetext
+Free Text:LFBD Taxiways\U1:freetext
+Free Text:LFBD Taxiways\U2:freetext
+Free Text:LFBD Taxiways\U2:freetext
+Free Text:LFBD Taxiways\U2:freetext
+Free Text:LFBD Taxiways\U3:freetext
+Free Text:LFBD Taxiways\U3:freetext
+Free Text:LFBD Taxiways\W1:freetext
+Free Text:LFBD Taxiways\W2:freetext
+Free Text:LFBD Taxiways\W3:freetext
+Free Text:LFBD Taxiways\W4:freetext
+Free Text:LFBD Taxiways\W5:freetext
+Regions:LFBD AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:44.805138:-0.780019:44.852167:-0.650669
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFBD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

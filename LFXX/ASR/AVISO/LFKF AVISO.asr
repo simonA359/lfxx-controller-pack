@@ -1,0 +1,106 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFKF Gates\1:freetext
+Free Text:LFKF Gates\10:freetext
+Free Text:LFKF Gates\11:freetext
+Free Text:LFKF Gates\12:freetext
+Free Text:LFKF Gates\13:freetext
+Free Text:LFKF Gates\14:freetext
+Free Text:LFKF Gates\2:freetext
+Free Text:LFKF Gates\3:freetext
+Free Text:LFKF Gates\4:freetext
+Free Text:LFKF Gates\5:freetext
+Free Text:LFKF Gates\6AL:freetext
+Free Text:LFKF Gates\6AS:freetext
+Free Text:LFKF Gates\6BL:freetext
+Free Text:LFKF Gates\6BS:freetext
+Free Text:LFKF Gates\7:freetext
+Free Text:LFKF Gates\8:freetext
+Free Text:LFKF Gates\9:freetext
+Free Text:LFKF Gates\AVT:freetext
+Free Text:LFKF Gates\Bloc technique:freetext
+Free Text:LFKF Gates\D1:freetext
+Free Text:LFKF Gates\D2:freetext
+Free Text:LFKF Gates\D3:freetext
+Free Text:LFKF Gates\E1:freetext
+Free Text:LFKF Gates\E2:freetext
+Free Text:LFKF Gates\E3:freetext
+Free Text:LFKF Gates\E4:freetext
+Free Text:LFKF Gates\E5:freetext
+Free Text:LFKF Gates\E6:freetext
+Free Text:LFKF Gates\E7:freetext
+Free Text:LFKF Gates\F1:freetext
+Free Text:LFKF Gates\F2:freetext
+Free Text:LFKF Gates\H:freetext
+Free Text:LFKF Gates\H1:freetext
+Free Text:LFKF Gates\H2:freetext
+Free Text:LFKF Gates\H3:freetext
+Free Text:LFKF Gates\H4:freetext
+Free Text:LFKF Gates\P-Aviation Generale:freetext
+Free Text:LFKF Gates\P-Hel:freetext
+Free Text:LFKF Gates\P-non revetu:freetext
+Free Text:LFKF Gates\RFFS:freetext
+Free Text:LFKF Gates\Securite Civile:freetext
+Free Text:LFKF Gates\TWR:freetext
+Free Text:LFKF Gates\Terminal:freetext
+Free Text:LFKF Gates\Terminal Affaires:freetext
+Free Text:LFKF Points VFR\EF:freetext
+Free Text:LFKF Points VFR\NF:freetext
+Free Text:LFKF Points VFR\NWF:freetext
+Free Text:LFKF Points VFR\SAF:freetext
+Free Text:LFKF Points VFR\SF:freetext
+Free Text:LFKF Points VFR\WAF:freetext
+Free Text:LFKF Points VFR\WF:freetext
+Free Text:LFKF Taxiways\C:freetext
+Geo:LFKF Groundlayout Figari sud Corse:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:41.490068:9.061889:41.514147:9.131605
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFKF
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

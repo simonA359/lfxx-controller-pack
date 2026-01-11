@@ -1,0 +1,86 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFMP Gates\General Aviation N:freetext
+Free Text:LFMP Gates\General Aviation S:freetext
+Free Text:LFMP Gates\P1:freetext
+Free Text:LFMP Gates\P2:freetext
+Free Text:LFMP Gates\P3:freetext
+Free Text:LFMP Gates\P4:freetext
+Free Text:LFMP Gates\P5:freetext
+Free Text:LFMP Gates\P6:freetext
+Free Text:LFMP Gates\Terminal:freetext
+Free Text:LFMP Points VFR\E:freetext
+Free Text:LFMP Points VFR\EA:freetext
+Free Text:LFMP Points VFR\MS:freetext
+Free Text:LFMP Points VFR\NF:freetext
+Free Text:LFMP Points VFR\NL:freetext
+Free Text:LFMP Points VFR\PC:freetext
+Free Text:LFMP Points VFR\SC:freetext
+Free Text:LFMP Points VFR\WS:freetext
+Free Text:LFMP Taxiways\A:freetext
+Free Text:LFMP Taxiways\B:freetext
+Free Text:LFMP Taxiways\C:freetext
+Free Text:LFMP Taxiways\D:freetext
+Free Text:LFMP Taxiways\F:freetext
+Free Text:LFMP Taxiways\G:freetext
+Free Text:LFMP Taxiways\H:freetext
+Free Text:LFMP Taxiways\K:freetext
+Free Text:LFMP Taxiways\L:freetext
+Free Text:LFMP Taxiways\P:freetext
+Free Text:LFMP Taxiways\Q:freetext
+Free Text:LFMP Taxiways\R:freetext
+Free Text:LFMP Taxiways\T:freetext
+Free Text:LFMP Taxiways\U:freetext
+Free Text:LFMP Taxiways\V:freetext
+Geo:LFMP Groundlayout Perpignan Rivesalte:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:42.722877:2.815427:42.760500:2.924357
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFMP
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

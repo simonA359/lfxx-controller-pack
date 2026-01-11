@@ -1,9 +1,78 @@
 [
 	{ 
+		"name": "_Generic LFFF",
+		"settings": "ACC",
+		"sector":  "LFFF",
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"3_GND.asr"
+		],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{
+		"name": "_Generic LFEE",
+		"settings": "ACC",
+		"sector":  "LFEE",
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"3_GND.asr"
+		],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{
+		"name": "_Generic LFBB",
+		"settings": "ACC",
+		"sector":  "LFBB",
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"3_GND.asr"
+		],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{
+		"name": "_Generic LFMM",
+		"settings": "ACC",
+		"sector":  "LFMM",
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"3_GND.asr"
+		],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{
+		"name": "_Generic LFRR",
+		"settings": "ACC",
+		"sector":  "LFRR",
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"3_GND.asr"
+		],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{
 		"name": "ACC Paris",
 		"settings": "ACC",
 		"sector":  "LFFF",
-		"recentFiles": [],
+		"recentFiles": [
+			"1_CTR.asr",
+			"APP/Paris APP Ouest Lie.asr",
+			"APP/Paris APP Est Lie.asr",
+			"AVISO/LFPG AVISO.asr",
+			"AVISO/LFPO AVISO.asr",
+			"AVISO/LFOB AVISO.asr",
+			"AVISO/LFQQ AVISO.asr",
+			"AVISO/LFPB AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "ACC"
 	},
@@ -27,7 +96,11 @@
 		"name": "ACC Bordeaux",
 		"settings": "ACC",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"ACC/Bordeaux UIR.asr",
+			"APP/Generic.asr",
+			"AVISO/LFBO AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "ACC"
 	},
@@ -144,7 +217,7 @@
 		"plugins": "Default"
 	},
 	{ 
-		"name": "Aerodrome Bâle",
+		"name": "Aerodrome Bale",
 		"settings": "Aerodrome",
 		"sector": "LFEE",
 		"recentFiles": [],

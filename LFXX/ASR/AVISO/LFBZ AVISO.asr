@@ -1,0 +1,122 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LFBZ Gates\1:freetext
+Free Text:LFBZ Gates\10:freetext
+Free Text:LFBZ Gates\11:freetext
+Free Text:LFBZ Gates\12:freetext
+Free Text:LFBZ Gates\12E:freetext
+Free Text:LFBZ Gates\13:freetext
+Free Text:LFBZ Gates\13E:freetext
+Free Text:LFBZ Gates\14:freetext
+Free Text:LFBZ Gates\15:freetext
+Free Text:LFBZ Gates\16:freetext
+Free Text:LFBZ Gates\17:freetext
+Free Text:LFBZ Gates\18:freetext
+Free Text:LFBZ Gates\19:freetext
+Free Text:LFBZ Gates\2:freetext
+Free Text:LFBZ Gates\20:freetext
+Free Text:LFBZ Gates\21:freetext
+Free Text:LFBZ Gates\22:freetext
+Free Text:LFBZ Gates\23:freetext
+Free Text:LFBZ Gates\24:freetext
+Free Text:LFBZ Gates\25:freetext
+Free Text:LFBZ Gates\3:freetext
+Free Text:LFBZ Gates\34:freetext
+Free Text:LFBZ Gates\4:freetext
+Free Text:LFBZ Gates\5:freetext
+Free Text:LFBZ Gates\56:freetext
+Free Text:LFBZ Gates\6:freetext
+Free Text:LFBZ Gates\67:freetext
+Free Text:LFBZ Gates\7:freetext
+Free Text:LFBZ Gates\78:freetext
+Free Text:LFBZ Gates\8:freetext
+Free Text:LFBZ Gates\9:freetext
+Free Text:LFBZ Gates\AVT:freetext
+Free Text:LFBZ Gates\H:freetext
+Free Text:LFBZ Gates\H1:freetext
+Free Text:LFBZ Gates\H3:freetext
+Free Text:LFBZ Gates\Hangars:freetext
+Free Text:LFBZ Gates\Hotel:freetext
+Free Text:LFBZ Gates\Parking:freetext
+Free Text:LFBZ Gates\Parking Alpha:freetext
+Free Text:LFBZ Gates\Parking Bravo:freetext
+Free Text:LFBZ Gates\Parking Charlie:freetext
+Free Text:LFBZ Gates\Parking Sud:freetext
+Free Text:LFBZ Gates\RFFS:freetext
+Free Text:LFBZ Gates\TWR:freetext
+Free Text:LFBZ Gates\Terminal:freetext
+Free Text:LFBZ Points VFR\BG:freetext
+Free Text:LFBZ Points VFR\E:freetext
+Free Text:LFBZ Points VFR\NA:freetext
+Free Text:LFBZ Points VFR\NC:freetext
+Free Text:LFBZ Points VFR\NE:freetext
+Free Text:LFBZ Points VFR\NP:freetext
+Free Text:LFBZ Points VFR\S:freetext
+Free Text:LFBZ Points VFR\SB:freetext
+Free Text:LFBZ Points VFR\SE:freetext
+Free Text:LFBZ Points VFR\SH:freetext
+Free Text:LFBZ Points VFR\SW:freetext
+Free Text:LFBZ Taxiways\C:freetext
+Free Text:LFBZ Taxiways\D:freetext
+Free Text:LFBZ Taxiways\N:freetext
+Free Text:LFBZ Taxiways\N1:freetext
+Free Text:LFBZ Taxiways\N11:freetext
+Free Text:LFBZ Taxiways\N2:freetext
+Free Text:LFBZ Taxiways\N3:freetext
+Free Text:LFBZ Taxiways\P:freetext
+Free Text:LFBZ Taxiways\S:freetext
+Free Text:LFBZ Taxiways\S1:freetext
+Free Text:LFBZ Taxiways\S2:freetext
+Geo:LFBZ Groundlayout AVISO:
+Regions:LFBZ AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:43.458886:-1.550449:43.478149:-1.494676
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:0
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFBZ
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
