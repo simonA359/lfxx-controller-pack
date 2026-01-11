@@ -1,0 +1,234 @@
+[
+	{ 
+		"name": "ACC Paris",
+		"settings": "ACC",
+		"sector":  "LFFF",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "ACC"
+	},
+	{ 
+		"name": "ACC Marseille",
+		"settings": "ACC",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "ACC"
+	},
+	{ 
+		"name": "ACC Brest",
+		"settings": "ACC",
+		"sector": "LFRR",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "ACC"
+	},
+	{ 
+		"name": "ACC Bordeaux",
+		"settings": "ACC",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "ACC"
+	},
+	{ 
+		"name": "ACC Reims",
+		"settings": "ACC",
+		"sector": "LFEE",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "ACC"
+	},
+	{ 
+		"name": "Aerodrome Beauvais",
+		"settings": "Aerodrome",
+		"sector": "LFFF",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Lille",
+		"settings": "Aerodrome",
+		"sector": "LFFF",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Paris-CDG",
+		"settings": "Aerodrome",
+		"sector": "LFFF",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Paris-Le Bourget",
+		"settings": "Aerodrome",
+		"sector": "LFFF",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Paris-Orly",
+		"settings": "Aerodrome",
+		"sector": "LFFF",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Ajaccio",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Bastia",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Clermont",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Lyon",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Marseille",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Montpellier",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Nice",
+		"settings": "Aerodrome",
+		"sector": "LFMM",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Strasbourg",
+		"settings": "Aerodrome",
+		"sector": "LFEE",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Bâle",
+		"settings": "Aerodrome",
+		"sector": "LFEE",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Biarritz",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Bordeaux",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome La Rochelle",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Limoges",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Pau",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Poitiers",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Toulouse",
+		"settings": "Aerodrome",
+		"sector": "LFBB",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Brest",
+		"settings": "Aerodrome",
+		"sector": "LFRR",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Nantes",
+		"settings": "Aerodrome",
+		"sector": "LFRR",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	},
+	{ 
+		"name": "Aerodrome Rennes",
+		"settings": "Aerodrome",
+		"sector": "LFRR",
+		"recentFiles": [],
+		"asrFastKeys": {},
+		"plugins": "Default"
+	}
+]
