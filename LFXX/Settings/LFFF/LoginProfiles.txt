@@ -1,0 +1,122 @@
+PROFILE
+PROFILE:LFFF_CTR:300:6
+ATIS2:Paris Control - EN/FR
+ATIS3:CPDLC LFXX, first contact via voice
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFFF_N_CTR:300:6
+ATIS2:Paris Control - EN/FR
+ATIS3:CPDLC LFXX, first contact via voice
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFFF_S_CTR:300:6
+ATIS2:Paris Control - EN/FR
+ATIS3:CPDLC LFXX, first contact via voice
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFFF_W_CTR:300:6
+ATIS2:Paris Control - EN/FR
+ATIS3:CPDLC LFXX, first contact via voice
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFFM_CTR:300:6
+ATIS2:France Military Control - EN/FR
+ATIS3:Check the charts! www.chartfox.org
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_APP:120:5
+ATIS2:De Gaulle Approach - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_S_APP:120:5
+ATIS2:De Gaulle Approach - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_DEP:120:5
+ATIS2:De Gaulle Departure - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_S_DEP:120:5
+ATIS2:De Gaulle Departure - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_F_APP:120:5
+ATIS2:De Gaulle Arrival - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_FS_APP:120:5
+ATIS2:De Gaulle Arrival - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPO_APP:120:5
+ATIS2:Orly Approach - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPO
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPO_F_APP:120:5
+ATIS2:Orly Arrival - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPO
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPO_DEP:120:5
+ATIS2:Orly Departure - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPO
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFOB_APP:120:5
+ATIS2:Beauvais Approach - EN/FR
+ATIS3:Check the charts! chartfox.org/LFOB
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFQQ_APP:120:5
+ATIS2:Lille Approach - EN/FR
+ATIS3:Check the charts! chartfox.org/LFQQ
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_TWR:30:4
+ATIS2:De Gaulle Tower - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_S_TWR:30:4
+ATIS2:De Gaulle Tower - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPO_TWR:30:4
+ATIS2:Orly Tower - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPO
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFOB_TWR:30:4
+ATIS2:Beauvais Tower - EN/FR
+ATIS3:Check the charts! chartfox.org/LFOB
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPB_TWR:30:4
+ATIS2:Le Bourget Tower - EN/FR
+ATIS3:Check the charts! chartfox.org/LFPB
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_GND:10:3
+ATIS2:De Gaulle Ground - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_A_GND:10:3
+ATIS2:De Gaulle Apron - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_S_GND:10:3
+ATIS2:De Gaulle Ground - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPO_GND:10:3
+ATIS2:Orly Ground - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPO
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPB_GND:10:3
+ATIS2:Le Bourget Ground - EN/FR
+ATIS3:Check the charts! chartfox.org/LFPB
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFQQ_GND:10:3
+ATIS2:Lille Ground - EN/FR
+ATIS3:Check the charts! chartfox.org/LFQQ
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPG_DEL:10:2
+ATIS2:De Gaulle Delivery - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPG
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPO_DEL:10:2
+ATIS2:Orly Delivery - EN/FR
+ATIS3:Book your desired gate here  vatsim.fr/airports/LFPO
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFPB_DEL:10:2
+ATIS2:Le Bourget Delivery - EN/FR
+ATIS3:Check the charts! chartfox.org/LFPB
+ATIS4:Leave me some feedback! vatsim.fr/fb/VOTRE_CID_ICI
+END
