@@ -8,7 +8,7 @@ Settings	SettingsfileFP	\Settings\Lists.txt
 Settings	SettingsfileORIGPLANE	\Settings\Lists.txt
 Settings	SettingsfilePILOTING	\Settings\Lists.txt
 Settings	SettingsfilePLUGINS	\Settings\Plugins.txt
-Settings	SettingsfilePROFILE	\Settings\LoginProfiles.txt
+Settings	SettingsfilePROFILE	\Settings\LFFF\LoginProfiles.txt
 Settings	SettingsfileSCREEN	\Settings\Screen.txt
 Settings	SettingsfileSEL	\Settings\Lists.txt
 Settings	SettingsfileSIL	\Settings\Lists.txt
@@ -19,7 +19,7 @@ Settings	SettingsfileTAKEOFF	\Settings\Lists.txt
 Settings	SettingsfileTAXIIN	\Settings\Lists.txt
 Settings	SettingsfileTAXIOUT	\Settings\Lists.txt
 Settings	SettingsfileVCCS	\Settings\VCCS.txt
-Settings	SettingsfileVOICE	\Settings\VoiceChannels.txt
+Settings	SettingsfileVOICE	\Settings\LFFF\VoiceChannels.txt
 Settings	alias	\Alias\alias.txt
 Settings	airlines	\ICAO\ICAO_Airlines.txt
 Settings	airports	\ICAO\ICAO_Airports.txt
@@ -48,21 +48,23 @@ Sounds	Sound15	\Sounds\new_atis.wav
 Sounds	Sound16	\Sounds\handoff_refused.wav
 Sounds	Sound17	\Sounds\pointout.wav
 Sounds	Sound18	\Sounds\startup.wav
-Plugins	Plugin0	\LFXX\Plugins\RDFPlugin.dll
-Plugins	Plugin1	\LFXX\Plugins\CCAMS.dll
-Plugins	Plugin2	\LFXX\Plugins\VCH.dll
-Plugins	Plugin3	\LFXX\Plugins\vSMR.dll
-Plugins	Plugin4	\LFXX\Plugins\ESTimers.dll
+Plugins	Plugin0	\Plugins\CoFrance\CoFrance.dll
+Plugins	Plugin1	\Plugins\RDFPlugin.dll
+Plugins	Plugin2	\Plugins\CCAMS.dll
+Plugins	Plugin3	\Plugins\VCH.dll
+Plugins	Plugin4	\Plugins\vSMR\vSMR.dll
+Plugins	Plugin5	\Plugins\ESTimers\ESTimers.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	SMR radar display
-Plugins	Plugin1Display0	SMR radar display
-Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3Display0	SMR radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	SMR radar display
 Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin5Display0	SMR radar display
+Plugins	Plugin5Display1	Standard ES radar screen
 LastSession	atis_freq4	118000
 LastSession	callsign	(initials)_OBS
 LastSession	certificate

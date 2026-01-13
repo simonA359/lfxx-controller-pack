@@ -4,7 +4,7 @@ m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
-m_ShowSimulatedData:1
+m_ShowSimulatedData:0
 m_TransitionAltitude:9000
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
@@ -68,7 +68,7 @@ m_VoiceRecognitionStyle:2
 m_SModeTransponders:IEFGRWQ
 m_CorrelationMode:0
 m_CorrelationDistance:30
-m_SimulateRadars:1
+m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:0
 m_ShowRectAroundFPTrack:1

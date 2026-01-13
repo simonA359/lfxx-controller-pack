@@ -65,8 +65,8 @@
 		"sector":  "LFFF",
 		"recentFiles": [
 			"1_CTR.asr",
-			"APP/Paris APP Ouest Lie.asr",
-			"APP/Paris APP Est Lie.asr",
+			"APP/CDG Radar - West Linked.asr",
+			"APP/CDG Radar - East Linked.asr",
 			"AVISO/LFPG AVISO.asr",
 			"AVISO/LFPO AVISO.asr",
 			"AVISO/LFOB AVISO.asr",
@@ -80,7 +80,16 @@
 		"name": "ACC Marseille",
 		"settings": "ACC",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"APP/Nice Radar - config 04.asr",
+			"APP/Nice Radar - config 22.asr",
+			"AVISO/LFMN AVISO.asr",
+			"AVISO/LFML AVISO.asr",
+			"AVISO/LFLL AVISO.asr",
+			"AVISO/LFKJ AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "ACC"
 	},
@@ -88,7 +97,13 @@
 		"name": "ACC Brest",
 		"settings": "ACC",
 		"sector": "LFRR",
-		"recentFiles": [],
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"AVISO/LFRS AVISO.asr",
+			"AVISO/LFRN AVISO.asr",
+			"AVISO/LFRB AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "ACC"
 	},
@@ -97,9 +112,13 @@
 		"settings": "ACC",
 		"sector": "LFBB",
 		"recentFiles": [
-			"ACC/Bordeaux UIR.asr",
-			"APP/Generic.asr",
-			"AVISO/LFBO AVISO.asr"
+			"1_CTR.asr",
+			"2_APP.asr",
+			"AVISO/LFBO AVISO.asr",
+			"AVISO/LFBD AVISO.asr",
+			"AVISO/LFBH AVISO.asr",
+			"AVISO/LFBZ AVISO.asr",
+			"AVISO/LFBE AVISO.asr"
 		],
 		"asrFastKeys": {},
 		"plugins": "ACC"
@@ -108,7 +127,12 @@
 		"name": "ACC Reims",
 		"settings": "ACC",
 		"sector": "LFEE",
-		"recentFiles": [],
+		"recentFiles": [
+			"1_CTR.asr",
+			"2_APP.asr",
+			"AVISO/LFSB AVISO.asr",
+			"AVISO/LFST AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "ACC"
 	},
@@ -116,7 +140,10 @@
 		"name": "Aerodrome Beauvais",
 		"settings": "Aerodrome",
 		"sector": "LFFF",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFOB AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -124,7 +151,10 @@
 		"name": "Aerodrome Lille",
 		"settings": "Aerodrome",
 		"sector": "LFFF",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFQQ AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -132,7 +162,14 @@
 		"name": "Aerodrome Paris-CDG",
 		"settings": "Aerodrome",
 		"sector": "LFFF",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFPG AVISO.asr",
+			"APP/CDG Radar - West Linked.asr",
+			"APP/CDG Radar - East Linked.asr",
+			"AVISO/LFPB AVISO.asr",
+			"AVISO/LFPO AVISO.asr",
+			"AVISO/LFOB AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -140,7 +177,11 @@
 		"name": "Aerodrome Paris-Le Bourget",
 		"settings": "Aerodrome",
 		"sector": "LFFF",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFPB AVISO.asr",
+			"APP/CDG Radar - West Linked.asr",
+			"APP/CDG Radar - East Linked.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -148,7 +189,11 @@
 		"name": "Aerodrome Paris-Orly",
 		"settings": "Aerodrome",
 		"sector": "LFFF",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFPO AVISO.asr",
+			"APP/CDG Radar - West Linked.asr",
+			"APP/CDG Radar - East Linked.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -156,7 +201,11 @@
 		"name": "Aerodrome Ajaccio",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFKJ AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFKF AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -164,7 +213,11 @@
 		"name": "Aerodrome Bastia",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFKB AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFKC AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -172,7 +225,11 @@
 		"name": "Aerodrome Clermont",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFLC AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFCR AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -180,7 +237,11 @@
 		"name": "Aerodrome Lyon",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFLL AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFLB AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -188,7 +249,10 @@
 		"name": "Aerodrome Marseille",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFML AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -196,7 +260,11 @@
 		"name": "Aerodrome Montpellier",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFMT AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFMP AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -204,7 +272,11 @@
 		"name": "Aerodrome Nice",
 		"settings": "Aerodrome",
 		"sector": "LFMM",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFMN AVISO.asr",
+			"APP/Nice Radar - config 04.asr",
+			"APP/Nice Radar - config 22.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -212,7 +284,10 @@
 		"name": "Aerodrome Strasbourg",
 		"settings": "Aerodrome",
 		"sector": "LFEE",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFST AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -220,7 +295,10 @@
 		"name": "Aerodrome Bale",
 		"settings": "Aerodrome",
 		"sector": "LFEE",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFSB AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -228,7 +306,10 @@
 		"name": "Aerodrome Biarritz",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFBZ AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -236,7 +317,11 @@
 		"name": "Aerodrome Bordeaux",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFBD AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFBE AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -244,7 +329,10 @@
 		"name": "Aerodrome La Rochelle",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFBH AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -252,7 +340,10 @@
 		"name": "Aerodrome Limoges",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"3_GND.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -260,7 +351,10 @@
 		"name": "Aerodrome Pau",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"3_GND.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -268,7 +362,10 @@
 		"name": "Aerodrome Poitiers",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"3_GND.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -276,7 +373,11 @@
 		"name": "Aerodrome Toulouse",
 		"settings": "Aerodrome",
 		"sector": "LFBB",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFBO AVISO.asr",
+			"2_APP.asr",
+			"AVISO/LFMK AVISO.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -284,7 +385,10 @@
 		"name": "Aerodrome Brest",
 		"settings": "Aerodrome",
 		"sector": "LFRR",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFRB AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -292,7 +396,10 @@
 		"name": "Aerodrome Nantes",
 		"settings": "Aerodrome",
 		"sector": "LFRR",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFRS AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	},
@@ -300,7 +407,10 @@
 		"name": "Aerodrome Rennes",
 		"settings": "Aerodrome",
 		"sector": "LFRR",
-		"recentFiles": [],
+		"recentFiles": [
+			"AVISO/LFRN AVISO.asr",
+			"2_APP.asr"
+		],
 		"asrFastKeys": {},
 		"plugins": "Default"
 	}

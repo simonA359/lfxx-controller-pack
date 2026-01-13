@@ -8,7 +8,7 @@
   "SettingsfileORIGPLANE":  "Lists.txt",
   "SettingsfilePILOTING": "Lists.txt",
   "SettingsfilePLUGINS":  "Plugins.txt",
-  "SettingsfilePROFILE": "LoginProfiles.txt",
+  "SettingsfilePROFILE": "$FIR$\\LoginProfiles.txt",
   "SettingsfileSCREEN":  "Screen.txt",
   "SettingsfileSEL": "Lists.txt",
   "SettingsfileSIL":  "Lists.txt",
@@ -19,5 +19,5 @@
   "SettingsfileTAXIIN": "Lists.txt",
   "SettingsfileTAXIOUT":  "Lists.txt",
   "SettingsfileVCCS": "VCCS.txt",
-  "SettingsfileVOICE":  "VoiceChannels.txt"
+  "SettingsfileVOICE":  "$FIR$\\VoiceChannels.txt"
 }

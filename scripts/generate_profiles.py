@@ -23,6 +23,7 @@ for profile in PROFILE_SETTINGS:
     for setting in SETTINGS:
         settings_content.append(f"Settings	{setting}	{ROOT_PATH}\\Settings\\{SETTINGS[setting]}")
     content = content.replace("$SETTINGS$", "\n".join(settings_content))
+    content = content.replace("$FIR$", profile["sector"])
 
     # Recent files
     recent_files_content = []
@@ -35,7 +36,7 @@ for profile in PROFILE_SETTINGS:
 
     # Plugins
     plugins_content = open(PLUGIN_SETTINGS[profile["plugins"]]).read()
-    content = content.replace("$PLUGINS$", plugins_content)
+    content = content.replace("$PLUGINS$", plugins_content.rstrip())
 
     with open(OUTPUT_PATH + profile["name"] + ".prf", "w") as f:
         f.write(content)

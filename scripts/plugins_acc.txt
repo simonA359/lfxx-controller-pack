@@ -1,15 +1,17 @@
-Plugins	Plugin0	\LFXX\Plugins\RDFPlugin.dll
-Plugins	Plugin1	\LFXX\Plugins\CCAMS.dll
-Plugins	Plugin2	\LFXX\Plugins\VCH.dll
-Plugins	Plugin3	\LFXX\Plugins\vSMR.dll
-Plugins	Plugin4	\LFXX\Plugins\ESTimers.dll
+Plugins	Plugin0	\Plugins\CoFrance\CoFrance.dll
+Plugins	Plugin1	\Plugins\RDFPlugin.dll
+Plugins	Plugin2	\Plugins\CCAMS.dll
+Plugins	Plugin3	\Plugins\VCH.dll
+Plugins	Plugin4	\Plugins\vSMR\vSMR.dll
+Plugins	Plugin5	\Plugins\ESTimers\ESTimers.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	SMR radar display
-Plugins	Plugin1Display0	SMR radar display
-Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3Display0	SMR radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4Display0	SMR radar display
 Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin5Display0	SMR radar display
+Plugins	Plugin5Display1	Standard ES radar screen
